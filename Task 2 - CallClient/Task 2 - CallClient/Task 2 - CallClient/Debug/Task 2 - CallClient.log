@@ -1,0 +1,10 @@
+﻿cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  Client.cpp
+f:\advanced programming\assignment\task 2 - callclient\task 2 - callclient\task 2 - callclient\client.cpp(1): fatal error C1041: cannot open program database 'F:\Advanced Programming\Assignment\Task 2 - CallClient\Task 2 - CallClient\Task 2 - CallClient\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Comms.cpp
+f:\advanced programming\assignment\task 2 - callclient\task 2 - callclient\task 2 - callclient\comms.cpp(1): fatal error C1041: cannot open program database 'F:\Advanced Programming\Assignment\Task 2 - CallClient\Task 2 - CallClient\Task 2 - CallClient\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Server.cpp
+f:\advanced programming\assignment\task 2 - callclient\task 2 - callclient\task 2 - callclient\server.cpp(1): fatal error C1041: cannot open program database 'F:\Advanced Programming\Assignment\Task 2 - CallClient\Task 2 - CallClient\Task 2 - CallClient\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Task 2 - CallClient.cpp
+f:\advanced programming\assignment\task 2 - callclient\task 2 - callclient\task 2 - callclient\task 2 - callclient.cpp(4): fatal error C1041: cannot open program database 'F:\Advanced Programming\Assignment\Task 2 - CallClient\Task 2 - CallClient\Task 2 - CallClient\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Generating Code...
